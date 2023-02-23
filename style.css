@@ -1,7 +1,10 @@
+/* Container for form */
 .logger {
-    position: relative;
-    margin-top: 10px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    background-color: rgb(215, 215, 215);
+  position: relative;
+  margin-top: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: rgb(215, 215, 215);
 }
+
+/* Checkbox name styling */

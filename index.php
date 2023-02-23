@@ -12,12 +12,84 @@
     <section class="logger" id="logger">
         <form action="connect.php" method="post">
             <ul>
-                <label for="name">Name: </label>
-                <input type="text" id="name" name="name"/>
+                <label class="container">Trent
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Owen
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">James
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Ethan
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Derek
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Jace
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Xander
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Arabella
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Rosella
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Norah
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Zack
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
                 <br><br>
 
-                <label for="grade">Grade:</label>
-                <input type="text" id="grade" name="grade"/>
+                <label class="container">4
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">5
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">6
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">7
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">8
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">9
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">10
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Hard
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                </label>
                 <br><br>
 
                 <label for="flash">Flash:</label>
